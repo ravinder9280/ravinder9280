@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer,Next js Projects<br>Mern Stack Developer 
+Full Stack Developer,Next js Projects<br>Mern Stack Developer ,
 <br>DEVOPS
 <br>Eager to learn new technologies <br><br>
 
