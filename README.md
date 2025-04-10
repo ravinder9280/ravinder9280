@@ -1,7 +1,6 @@
 # 💫 About Me:
-Full Stack Developer,Next js Projects<br>Mern Stack Developer ,
-<br>DEVOPS
-<br>Eager to learn new technologies <br><br>
+Full Stack Developer ,Next js ,Typescript ,Python ,AWS ,DOCKER
+<br>Eager to explore and learn new technologies <br><br>
 
 
 ## 🌐 Socials:
