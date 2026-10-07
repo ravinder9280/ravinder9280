@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer ,Next js ,Typescript ,Python ,AWS ,DOCKER
+Full Stack Developer ,Ai Agents, Next js ,Typescript ,Python ,AWS ,DOCKER
 <br>Eager to explore and learn new technologies <br><br>
 PORTFOLIO : https://www.ravindertech.me
 
